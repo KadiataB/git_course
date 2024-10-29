@@ -13,7 +13,7 @@ constructor() { }
   }
 
   methode2(){
-    console.log("kadiata");
+    alert("kadiata")
   }
 
 }
