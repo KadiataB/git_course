@@ -12,8 +12,20 @@ constructor() { }
     console.log("breukhegnilé");
   }
 
+
+
+
+methode4(){
+  console.log("breukhegnilé");
+
+}
+
+
   methode2(){
     alert("kadiata")
   }
+
+
+
 
 }
